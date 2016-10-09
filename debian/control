@@ -5,6 +5,8 @@ Section: fonts
 Standards-Version: 3.9.8
 Homepage: http://www.aliadne.net/tibet
 Build-Depends: debhelper (>= 9)
+Vcs-Git: https://anonscm.debian.org/git/debian-in/fonts-sambhota-tsugring.git
+Vcs-Browser: https://anonscm.debian.org/cgit/debian-in/fonts-sambhota-tsugring.git
 
 Package: fonts-sambhota-tsugring
 Architecture: all
