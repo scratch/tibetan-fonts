@@ -1,0 +1,51 @@
+Sambhota font info                                  rev 17 july 2012
+______________________________________________________________________ 
+
+Source: http://www.aliadne.net/tibet
+
+Filename: 
+  TibetanSambhotaTsugring.otf
+______________________________________________________________________ 
+CSS font-family name:   
+  TibetanSambhotaTsugring
+
+
+______________________________________________________________________ 
+Notes:
+
+  * To type this font:
+      - On Windows7, you can use the built-in Tibetan keyboard.
+      - On MacOSX, you can use the built-in Tibetan keyboard.
+      - On Linux, you can use the iBUS or SCIM keyboards.
+      More at http://tibetangeeks.com/downloads/bodyig/
+
+
+
+______________________________________________________________________ 
+Font info ($ otfinfo -i fontname.ttf):
+Family:              TibetanSambhotaTsugring
+Subfamily:           Regular
+Full name:           TibetanSambhotaTsugring
+PostScript name:     TibetanSambhotaTsugring
+Preferred family:    TibetanTsugring
+Preferred subfamily: Regular
+Mac font menu name:  TibetanTsugring
+Version:             Version 1.20
+Unique ID:           FontForge 2.0 : TibetanSambhotaTsugring : 6-6-2009
+Designer:            based on a font by Tibetan Dharamusara
+Designer URL:        http://www.aliadne.net/tibet
+Manufacturer:        Dezawa Shin0ichiro
+Vendor URL:          http://www.aliadne.net/tibet/
+Copyright:           Copyleft (c) 2009 Lobsang Gonpo <stss1999@gmail.com>
+Made with Sambhota cooperation.
+Copy free under GPL
+  http://www.gnu.org/licenses/gpl.txt
+  http://www.gnu.org/copyleft/
+Tibean Glyph designed by Lobsang Gonpo
+Laten  Glyph copyed from TeX's CMSL10.
+
+License URL:         http://www.gnu.org/copyleft/gpl.html
+
+______________________________________________________________________ 
+written 17 july 2012
+-- 0 -- 
