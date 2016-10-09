@@ -1,0 +1,15 @@
+Source: fonts-sambhota-tsugring
+Maintainer: scratch <krishnan.n@gai.co.in>
+Priority: optional
+Section: fonts
+Standards-Version: 3.9.8
+Homepage: https://wiki.debian.org/Tibetan
+Build-Depends: debhelper (>= 9)
+
+Package: fonts-sambhota-tsugring
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}
+Description: sambhota tsugring free OpenType Tibetan font
+ This is a free Tibetan dbu-med OpenType Font, designed by Dezawa Shin-ichiro
+ based on a font by Tibetan Dharamusara. 
