@@ -3,7 +3,7 @@ Maintainer: scratch <krishnan.n@gai.co.in>
 Priority: optional
 Section: fonts
 Standards-Version: 3.9.8
-Homepage: https://wiki.debian.org/Tibetan
+Homepage: http://sonamdawa.webwalker.to/download/Tibetan%20fonts%20and%20Input/UnicodeTibetanFonts/TibetanTsugRing.otf
 Build-Depends: debhelper (>= 9)
 
 Package: fonts-sambhota-tsugring
